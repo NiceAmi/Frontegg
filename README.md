@@ -1,4 +1,5 @@
 Frontegg Home Assignment
+
 This project is a basic React application integrated with Frontegg for authentication and user management. It demonstrates the implementation of Frontegg's login, authentication, and admin portal features.
 Features
 
